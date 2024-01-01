@@ -1,0 +1,23 @@
+.banner{
+    background-color: #1f1f35;
+    width: 100%;
+    margin-bottom: 3%;
+    height: 80px;
+}
+body{
+    background-color:#e5e5eb;
+}
+
+
+.banner-text{
+    color: rgba(159, 159, 159, 0.384);
+    padding-top: 10px;
+    text-align: center;
+}
+#task{
+    margin-bottom: 10px;
+}
+#priority{
+    margin-bottom: 5px;
+}
+
